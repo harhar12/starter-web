@@ -8,6 +8,8 @@ bla bla  bla
 
 ## Deployment
 
+Another description in the README file
+
 ## Purpose
 
 Sample website with plenty of files for demos
