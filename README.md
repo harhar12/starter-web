@@ -17,6 +17,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 what happened?
 i dont know
+please fork this repository and then issue pull request
 
 ## Copyright
 
