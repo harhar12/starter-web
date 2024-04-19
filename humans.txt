@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alfred J. Kwack 	alfred@j.quack 	@quack
 
 # THANKS
 
