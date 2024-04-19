@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 what happened?
 i dont know
+
+## Copyright
+
+Git.Training 2024
